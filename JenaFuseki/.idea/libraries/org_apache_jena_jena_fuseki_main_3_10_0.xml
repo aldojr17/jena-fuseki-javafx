@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="org.apache.jena:jena-fuseki-main:3.10.0" type="repository">
+    <properties maven-id="org.apache.jena:jena-fuseki-main:3.10.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jena-fuseki-main-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-fuseki-access-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-fuseki-core-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-fileupload-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-servlet-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-security-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-server-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-servlets-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-continuation-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-http-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-io-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-xml-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-util-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-cmds-3.10.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib/apache-jena-libs-3.10.0.pom" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-tdb-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-arq-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-core-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-iri-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-base-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-csv-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-compress-1.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/collection-0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-shaded-guava-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsonld-java-0.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-cache-4.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libthrift-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-tdb2-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-dboe-trans-data-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-dboe-transaction-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-dboe-base-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-dboe-index-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-rdfconnection-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
