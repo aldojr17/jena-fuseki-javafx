@@ -2,72 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ff09a84-4547-419f-b57f-23094835361e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/.idea/libraries/org_apache_jena_jena_fuseki_main_3_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/JenaFuseki.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/apache-jena-libs-3.10.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/collection-0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/commons-cli-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/commons-codec-1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/commons-compress-1.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/commons-csv-1.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/commons-fileupload-1.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/commons-io-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/commons-lang3-3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/httpclient-4.5.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/httpclient-cache-4.5.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/httpcore-4.4.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jackson-core-2.9.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jackson-databind-2.9.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jcl-over-slf4j-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-arq-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-base-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-cmds-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-core-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-dboe-base-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-dboe-index-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-dboe-trans-data-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-dboe-transaction-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-fuseki-access-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-fuseki-core-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-fuseki-main-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-iri-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-rdfconnection-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-shaded-guava-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-tdb-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jena-tdb2-3.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jetty-continuation-9.4.12.v20180830.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jetty-http-9.4.12.v20180830.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jetty-io-9.4.12.v20180830.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jetty-security-9.4.12.v20180830.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jetty-server-9.4.12.v20180830.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jetty-servlet-9.4.12.v20180830.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jetty-servlets-9.4.12.v20180830.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jetty-util-9.4.12.v20180830.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jetty-xml-9.4.12.v20180830.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/jsonld-java-0.12.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/libthrift-0.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/lib/slf4j-log4j12-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/out/production/JenaFuseki/EmploymentConstruct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/out/production/JenaFuseki/FusekiEndpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/out/production/JenaFuseki/JobsConstruct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/out/production/JenaFuseki/PeopleConstruct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/out/production/JenaFuseki/employment.rdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/out/production/JenaFuseki/jobs.rdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/out/production/JenaFuseki/people.rdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/src/EmploymentConstruct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/src/FusekiEndpoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/src/JobsConstruct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/src/PeopleConstruct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/src/employment.rdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/src/jobs.rdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenaFuseki/src/people.rdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +26,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
@@ -122,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611204015274</updated>
-      <workItem from="1611204018827" duration="2249000" />
+      <workItem from="1611204018827" duration="4334000" />
     </task>
     <servers />
   </component>
