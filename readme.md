@@ -10,16 +10,19 @@
 #### 3. Kemudian buka browser Anda dan masukkan URL http://localhost:3030 untuk mengecek apakah server sudah menyala atau belum
 
 ![](./images/tampilanJena.png)
+
 (Tampilan jika server berhasil jalan)
 
 #### 4. Setelah menambah dataset yang dibutuhkan pada server Jena Fuseki, tambahkan/ganti pilihan dari scroll box yang terdapat pada aplikasi. Penggantian atau penambahan dapat dilakukan pada *file* MainController.java
 
 ![](./images/daftarDataset.png)
+
 (Code terdapat pada function initialize pada MainController.java)
 
 #### 5. Setelah mengubah daftar dataset sesuai dengan yang terdapat pada server Jena Fuseki, Anda dapat menjalankan Aplikasi menggunakan IntelliJ ataupun IDE lainnya.
 
 ![](./images/tampilanAplikasi.png)
+
 (Tampilan Aplikasi setelah dijalankan)
 
 ### Penjelasan Isi Aplikasi
@@ -32,6 +35,7 @@
   dapat ditambah hingga 5 prefix dengan menekan tombol +.
   
 ![](./images/prefix.png)
+
 ![](./images/prefixMax.png)
 
 * Scroll Box SPARQL Update : Berisi jenis SPARQL Update yang dapat dilakukan diantaranya add, delete data, dan 
@@ -52,10 +56,13 @@
 ### Contoh Penggunaan Aplikasi
 
 ![](./images/add.png)
+
 (Add data)
 
 ![](./images/deleteData.png)
+
 (Delete Data)
 
 ![](./images/deleteWhere.png)
+
 (Delete Where)
