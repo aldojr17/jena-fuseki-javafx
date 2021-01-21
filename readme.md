@@ -66,3 +66,10 @@
 ![](./images/deleteWhere.png)
 
 (Delete Where)
+
+### Kelompok :
+* 1872006 - Michael Widjajahalim
+* 1872011 - Stephen Candra
+* 1872020 - Kelvin William
+* 1872034 - Billy Arya Anugrah
+* 1872035 - Rivaldo Stuart Wattimena
